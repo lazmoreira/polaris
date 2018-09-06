@@ -1,7 +1,7 @@
 # Goals
 
-    - Users
-    - Calendars
-    - Holidays
-    - Request / Aprove / Decline
-    - Leave remember email
+- [] Users
+- [] Calendars
+- [] Holidays
+- [] Request / Aprove / Decline
+- [] Leave remember email
